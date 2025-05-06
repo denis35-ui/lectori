@@ -143,7 +143,7 @@
         <p>Войдите с помощью:</p>
         
          <div style="text-align: center; margin: 20px;">
-             <img src="file:///C:\Users\DEMaksimov\Desktop\qr.png" alt="QR code" style="width:150px; height:150px;">
+             <img src="qr(1).png" alt="QR code" style="width:150px; height:150px;">
              </div>
     
         <h3>Или:</h3>
