@@ -129,6 +129,7 @@
         <h2>Контакты</h2>
         <p>Свяжитесь с нами по электронной почте: info@example.com</p>
     </section>
+    <img src="qr(1).png"alt="Qr-cod" witdth="150" height="150">
 </div>
 
 <footer>
